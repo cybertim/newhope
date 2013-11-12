@@ -2,10 +2,12 @@ newhope
 =======
 
 Unity 3D block (voxel) engine with marching cube renderer
-
 Created to make a RTS / City building kind of game.
-There are extra features in the project:
 
+### Demo
+http://www.youtube.com/watch?v=1jPpyEs6S0A
+
+## Features
 1. Complete chunk based and memory optimized block / voxel engine
 2. Simplex noise to render the map (fast)
 3. On the fly (infinite) Terrain generator
